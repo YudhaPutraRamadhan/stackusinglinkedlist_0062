@@ -47,6 +47,7 @@ public:
 			while (current != NULL) {
 				cout << current->data << " " << endl;
 			}
+			cout << endl;
 		}
 	}
 };
